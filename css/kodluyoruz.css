@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+ text-align: center;
+ color:red
+}
+nav{
+    text-align: center;
+}
+a{
+    font-size: 20px;
+    margin-left: 10px ;
+}
+h5{
+    text-align: center;
+    font-size: 20px;
+    color: purple;
+}
+ul{
+    text-align: center;
+}
+.baslik{
+    font-weight: bold;
+    color: rgb(108, 108, 0);
+}
+ul li{
+    list-style-position: inside;
+}
