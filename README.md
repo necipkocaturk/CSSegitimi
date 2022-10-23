@@ -4,5 +4,5 @@ Patika.dev sitesi için CSS eğitimde verilen ilk ödev. Ödev olarak basit bir 
 
 
 
-https://user-images.githubusercontent.com/34922164/197403966-9d4b58da-9a59-4f40-8345-625f7f76d8b7.mov
 
+![CSSegitim](https://user-images.githubusercontent.com/34922164/197404065-1d346817-60db-4b2b-b7d9-f84d0d42d778.gif)
