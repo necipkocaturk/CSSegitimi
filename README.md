@@ -1,2 +1,5 @@
 # PatikaCssOdevi
-![video-to-gif-converter](https://user-images.githubusercontent.com/34922164/197347397-462417a0-3c52-4dff-91d9-02fcedf715ad.gif)
+Patika.dev sitesi için CSS eğitimde verilen ilk ödev. Ödev olarak basit bir ticari kuruma ait bir site geliştirmemiz istendi. Görüntülerini aşağıya ekledim.
+
+https://user-images.githubusercontent.com/34922164/197403895-0a445c9a-2310-4891-8483-3c59eca88f7f.mov
+
